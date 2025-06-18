@@ -19,7 +19,7 @@ msgstr ""
 
 #: cbatticon.c:163
 msgid "Display the version"
-msgstr "Afficher la version"
+msgstr "Afficher la versions"
 
 #: cbatticon.c:164
 msgid "Display debug information"
