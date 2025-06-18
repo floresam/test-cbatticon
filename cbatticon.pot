@@ -263,4 +263,3 @@ msgid "%d minute remaining"
 msgid_plural "%d minutes remaining"
 msgstr[0] ""
 msgstr[1] ""
-
